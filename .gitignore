@@ -11,3 +11,4 @@ embedded/node_modules
 .vscode/arduino.json
 esp3d/myconfig.h
 __pycache__
+esp3d/wifi_config.h
