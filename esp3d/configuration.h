@@ -30,8 +30,8 @@
 //Just save it in same location as this configuration.h
 //This file is ignored by github
 #if defined __has_include
-#  if __has_include ("myconfig.h")
-#    include "myconfig.h"
+#  if __has_include ("wifi_config.h")
+#    include "wifi_config.h"
 #  endif
 #endif
 
